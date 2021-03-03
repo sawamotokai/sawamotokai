@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kai Sawamoto</h1>
-<h3 align="center">full-stack/software developer | aspiring problem solver.</h3>
+<h3 align="center">full-stack, software developer  |  aspiring problem solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawamotokai&label=Profile%20views&color=0e75b6&style=flat" alt="sawamotokai" /> </p>
 
@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaisawamoto/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kaisawamoto/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sawamotokai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/sawamotokai/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kai_atom/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/kai_atom/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaisawamoto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaisawamoto" height="30" width="40" /></a>
+<a href="https://fb.com/kaisawamoto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kaisawamoto" height="30" width="40" /></a>
+<a href="https://instagram.com/kai_atom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kai_atom" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/techkai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="techkai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/techkai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/techkai/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/techkai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="techkai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
