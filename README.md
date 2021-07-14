@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [typebits](https://github.com/sawamotokai/typebits)
 
-- 🌱 I’m currently learning **Flutter and Deep Learning.**
+- 🌱 I’m currently learning **GraphQL, Microservices Architecture and Next.js.**
 
 - 👨‍💻 All of my projects are available at [https://sawamotokai.github.io/](https://sawamotokai.github.io/)
 
