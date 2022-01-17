@@ -3,9 +3,9 @@
 <h4 align="center"> Forth-year CS student at University of British Columbia</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawamotokai&label=Profile%20views&color=0e75b6&style=flat" alt="sawamotokai" /> </p>
 
-- 🔭 I’m currently working on [typebits](https://github.com/sawamotokai/typebits)
+- 🔭 I’m currently working on Stats
 
-- 🌱 I’m currently learning **GraphQL, Microservices Architecture and Next.js.**
+- 🌱 I’m currently learning **Flutter, Event-driven microservice architecture, gRPC**
 
 - 👨‍💻 All of my projects are available at [https://sawamotokai.github.io/](https://sawamotokai.github.io/)
 
