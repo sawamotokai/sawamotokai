@@ -3,7 +3,7 @@
 <h4 align="center"> Forth-year CS student at University of British Columbia</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawamotokai&label=Profile%20views&color=0e75b6&style=flat" alt="sawamotokai" /> </p>
 
-- 🔭 I’m currently working on Stats
+- 🔭 I’m currently working on... school
 
 - 🌱 I’m currently learning **Flutter, Event-driven microservice architecture, gRPC**
 
