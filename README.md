@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Designing data intensive applications**
 
-- 👨‍💻 All of my projects are available at [https://sawamotokai.github.io/](https://sawamotokai.github.io/)
+- 👨‍💻 All of my projects are available [here](https://kaisawamoto.vercel.app/)
 
 - 💬 Ask me about **React and C++**
 
